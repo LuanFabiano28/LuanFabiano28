@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LuanFabiano28
+- 👋 Hi, I’m Luan Fabiano
 - 👀 I’m interested in learning and mastering various platforms to enhance my knowledge in the field of technology.
 - 🌱 I’m currently learning to handle data and other programming platforms.
 - 💞️ I’m looking to collaborate on sustainable research and development.
